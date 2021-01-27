@@ -6,8 +6,7 @@
 <img align="left" src="notMe.jpg" width="25%"/>
 
 <br>
-<br>
-<br>
+
 
 - Back-End Developer (coming soon)
 - **Jadi lover** (Unfortunately :) i love this crazzy man)
