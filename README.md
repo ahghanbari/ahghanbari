@@ -1,7 +1,7 @@
 
 
-# Hey Body
-### I’m arash, computer stuff lover
+# Hey Buddy
+### I'm arash, computer stuff lover
 
 <img align="left" src="notMe.jpg" width="25%"/>
 
@@ -19,7 +19,7 @@
 
 <hr>
 
-### What I know
+### I know:
 <p align="left">
 
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
@@ -28,6 +28,8 @@
 
 <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>
+
+Of course i know more :neutral_face::unamused::roll_eyes: this just a short icon list.
 
 </p>
 
