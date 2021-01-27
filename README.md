@@ -14,6 +14,7 @@
 - PHP coder (i was, no php anymore)
 - Bash scripter ((coming soon) maybe)
 - Vim lover, even its ext. on firefox
+- sometimes i do Design stuff :neutral_face: like painting, but i did more, if i had a talent :)
 <br>
 <br>
 
@@ -29,7 +30,7 @@
 <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>
 
-Of course i know more :neutral_face::unamused::roll_eyes: this just a short icon list.
+Of course i know more :neutral_face::unamused::roll_eyes: this is just a short icon list.
 
 </p>
 
