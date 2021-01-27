@@ -1,0 +1,48 @@
+
+
+# Hey Body
+### I’m arash, computer stuff lover
+
+<img align="left" src="notMe.jpg" width="25%"/>
+
+<br>
+<br>
+<br>
+
+- Back-End Developer (coming soon)
+- **Jadi lover** (Unfortunatly :) i love this crazzy man)
+- For now i learning Django
+<br>
+<br>
+
+<hr>
+
+### What I know
+<p align="left">
+
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>
+
+</p>
+
+<hr>
+
+### My Stats
+[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=arashph17&show_icons=true)](https://github.com/arashph17)
+
+<hr>
+
+### My Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashph17&layout=compact)](https://github.com/arashph17)
+
+<hr>
+
+<p><b>Email :</b></p>
+
+- (arash.ph17@gmail.com)
+<hr>
