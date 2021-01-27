@@ -10,8 +10,11 @@
 <br>
 
 - Back-End Developer (coming soon)
-- **Jadi lover** (Unfortunatly :) i love this crazzy man)
+- **Jadi lover** (Unfortunately :) i love this crazzy man)
 - For now i learning Django
+- PHP coder (i was, no php anymore)
+- Bash scripter ((coming soon) maybe)
+- Vim lover, even its ext. on firefox
 <br>
 <br>
 
@@ -40,6 +43,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arashph17&layout=compact)](https://github.com/arashph17)
 
+Don't get this serios :|
 <hr>
 
 <p><b>Email :</b></p>
