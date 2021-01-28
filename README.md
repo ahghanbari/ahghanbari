@@ -23,12 +23,12 @@
 ### I know:
 <p align="left">
 
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
+<img src="static/icon/git.png" alt="git" width="40" height="40"/>
+<img src="static/icon/linux.png" alt="linux" width="40" height="40"/>
+<img src="static/icon/python.png" alt="python" width="40" height="40"/>
 
-<img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/html.png" alt="html" width="40" height="40"/>
+<img src="static/icon/php.png" alt="php" width="40" height="40"/>
+<img src="static/icon/html.png" alt="html" width="40" height="40"/>
 
 Of course i know more :neutral_face::unamused::roll_eyes: this is just a short icon list.
 
