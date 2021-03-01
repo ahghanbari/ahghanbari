@@ -8,11 +8,12 @@
 <br>
 
 
-- Back-End Developer (coming soon)
+- Python Coder
+- Sys Admin
+- Back-End Developer (learning Django)
 - **Jadi lover** (Unfortunately :) i love this crazzy man)
-- For now i learning Django
 - PHP coder (i was, no php anymore)
-- Bash scripter ((coming soon) maybe)
+- Bash scripter
 - Vim lover, even its ext. on firefox
 - sometimes i do Design stuff :neutral_face: like painting, but i did more, if i had talent :)
 <br>
