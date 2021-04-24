@@ -12,6 +12,7 @@
 - **Jadi lover** (Unfortunately :) i love this crazzy man)
 - PHP coder (i was, no php anymore)
 - Bash scripter
+- VHDL coder
 - Vim lover, even its ext. on firefox
 - sometimes i do Design stuff :neutral_face: like painting, but i did more, if i had talent :)
   <br>
