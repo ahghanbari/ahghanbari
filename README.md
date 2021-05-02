@@ -4,8 +4,6 @@
 
 <img align="left" src="notMe.jpg" width="25%"/>
 
-<br>
-
 - Python Coder
 - Sys Admin
 - Back-End Developer (learning Django)
