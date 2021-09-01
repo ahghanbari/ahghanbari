@@ -6,7 +6,7 @@
 
 - Python Coder
 - Gnu/Linux Lover
-- Back-End Developer (learning Django)
+- Back-End Developer
 - **Jadi lover** (Unfortunately :) i love this crazzy man)
 - PHP coder (i was, no php anymore)
 - Bash scripter
