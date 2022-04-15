@@ -1,6 +1,6 @@
 # Hey Buddy
 
-### I'm arash, computer stuff lover
+### I'm arash
 
 <img align="left" src="notMe.jpg" width="25%"/>
 
@@ -48,7 +48,11 @@ Don't get this serios :|
 
 <hr>
 
-<p><b>Email :</b></p>
+## contact me:
+[<b>Gmail</b>](mailto:arash.ph17@gmail.com)
 
-- (arash.ph17@gmail.com)
+[<b>LinkedIn</b>](https://www.linkedin.com/in/amirhosein-ghanbari/)
+
+[<b>Telegram</b>](https://t.me/arashph17)
+
 <hr>
