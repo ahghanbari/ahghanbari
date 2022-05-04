@@ -49,8 +49,8 @@ Don't get this serios :|
 <hr>
 
 ## contact me:
-[<b>Email</b>](mailto:‫‪ahghanbari@protonmail.com‬‬)
+<b>Email:</b> ‫‪ahghanbari@protonmail.com‬‬
 
-[<b>LinkedIn</b>](https://www.linkedin.com/in/amirhosein-ghanbari/)
+<b>LinkedIn:</b>(https://www.linkedin.com/in/amirhosein-ghanbari/)
 
 <hr>
