@@ -49,10 +49,8 @@ Don't get this serios :|
 <hr>
 
 ## contact me:
-[<b>Gmail</b>](mailto:arash.ph17@gmail.com)
+[<b>Gmail</b>](mailto:‫‪ahghanbari@protonmail.com‬‬)
 
 [<b>LinkedIn</b>](https://www.linkedin.com/in/amirhosein-ghanbari/)
-
-[<b>Telegram</b>](https://t.me/arashph17)
 
 <hr>
