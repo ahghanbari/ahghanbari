@@ -51,6 +51,6 @@ Don't get this serios :|
 ## contact me:
 <b>Email:</b> ‫‪ahghanbari@protonmail.com‬‬
 
-<b>LinkedIn:</b>https://www.linkedin.com/in/amirhosein-ghanbari/
+<b>LinkedIn:</b> https://www.linkedin.com/in/amirhosein-ghanbari/
 
 <hr>
