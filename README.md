@@ -49,7 +49,7 @@ Don't get this serios :|
 <hr>
 
 ## contact me:
-<b>Email:</b> ‫‪ahghanbari12@gmail.com.com‬‬
+<b>Email:</b> ‫‪ahghanbari12@gmail.com
 
 <b>LinkedIn:</b> https://www.linkedin.com/in/amirhosein-ghanbari/
 
