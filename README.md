@@ -2,15 +2,11 @@
 
 ### I'm AmirHosein
 
-<img align="left" src="notMe.jpg" width="25%"/>
-
 - Python Coder
 - Gnu/Linux Lover
 - Back-End Developer
-- **Jadi lover** (Unfortunately :) i love this crazzy man)
-- PHP coder (i was, no php anymore)
 - Bash scripter
-- Vim lover, even its ext. on firefox
+- Vim lover
   <br>
   <br>
 
@@ -49,7 +45,7 @@ Don't get this serios :|
 <hr>
 
 ## contact me:
-<b>Email:</b> ‫‪ahghanbari12@gmail.com
+<b>Email:</b> ‫‪ahghanbari@protonmail.com
 
 <b>LinkedIn:</b> https://www.linkedin.com/in/ahghanbari/
 
