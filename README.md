@@ -26,20 +26,6 @@ Of course i know more :neutral_face::unamused::roll_eyes: this is just a short i
 
 <hr>
 
-### My Stats
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=ahghanbari&show_icons=true)](https://github.com/ahghanbari)
-
-<hr>
-
-### My Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahghanbari&layout=compact)](https://github.com/ahghanbari)
-
-Don't get this serios :|
-
-<hr>
-
 ## contact me:
 <b>Email:</b> ‫‪ahghanbari@protonmail.com
 
